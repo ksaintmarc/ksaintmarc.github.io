@@ -13,12 +13,12 @@ function App() {
   return (
     <Router>
       <Menu></Menu>
-      <Routes>
+      <Routes id='page'>
         <Route exact path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/experience" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/art" element={<Dessins />} />
-        <Route path="/dev" element={<Dev />} />
+        <Route path="/projects" element={<Dev />} />
       </Routes>
     </Router>
   );
