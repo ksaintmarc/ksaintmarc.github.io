@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import Link from '@mui/material/Link';
-import { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 
 const menuItems = [  
@@ -17,7 +15,7 @@ function Menu() {
   return (
     <nav>
       {menuItems.map((item, index) => (
-          <Link className={location.pathname==item.path && 'selected'} underline='none' key={index} href={item.path}>{item.text}</Link>
+          <Link className={location.pathname===item.path && 'selected'} underline='none' key={index} href={item.path}>{item.text}</Link>
       ))}
     </nav>
   );
