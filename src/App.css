@@ -1,0 +1,38 @@
+body, html{
+  background-color: navy;
+  height: 100%;
+}
+#root{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.App{
+  background-color: #706099;
+  height: 100%;
+}
+
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  overflow: auto;
+}
+
+nav *{ 
+  background-color: lavender;
+  width: 100%;
+  color: black;
+  text-align: center;
+  border-top-left-radius: 60px;
+  border-top-right-radius: 50px;
+}
+
+nav *:hover{
+  background-color: rgb(184, 153, 209);
+}
+
+.selected {
+  background-color: #706099;
+  color: white;
+}
