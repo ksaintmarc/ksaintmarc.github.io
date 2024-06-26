@@ -1,11 +1,11 @@
 import './App.css';
 import {Route, Routes } from 'react-router-dom';
 import Menu from './Menu';
-import About from './Pages/About';
-import Home from './Pages/Home';
-import Contact from './Pages/Contact';
-import Dessins from './Pages/Dessins';
-import Dev from './Pages/Dev';
+import About from './routes/About';
+import Home from './routes/Home';
+import Contact from './routes/Contact';
+import Dessins from './routes/Dessins';
+import Dev from './routes/Dev';
 
 
 function App() {
