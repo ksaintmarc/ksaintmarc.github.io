@@ -1,26 +1,19 @@
 import './App.css';
-import {Route, Routes } from 'react-router-dom';
-import Menu from './Menu';
-import About from './routes/About';
-import Home from './routes/Home';
-import Contact from './routes/Contact';
-import Dessins from './routes/Dessins';
-import Dev from './routes/Dev';
-
-
+import { Routes, Route} from "react-router-dom";
+import About from "./routes/About";
+import Careers from "./routes/Careers";
+import Home from "./routes/Home";
+import Navbar from './Navbar';
 function App() {
   return (
     <>
-      <Menu></Menu>
-      <Routes id='page'>
+      <Navbar />
+      <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/experience" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/art" element={<Dessins />} />
-        <Route path="/projects" element={<Dev />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/careers" element={<Careers />} />
       </Routes>
     </>
   );
 }
-
 export default App;
