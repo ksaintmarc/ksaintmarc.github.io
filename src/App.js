@@ -1,24 +1,23 @@
 import './App.css';
-import {Route, Routes } from 'react-router-dom';
+import {Route, Switch } from 'react-router-dom';
 import Menu from './Menu';
 import About from './routes/About';
 import Home from './routes/Home';
 import Contact from './routes/Contact';
 import Dessins from './routes/Dessins';
 import Dev from './routes/Dev';
+import { useState } from 'react';
 
 
 function App() {
+  const [currentPage, setCurrentPage] = useState(<Home/>);
+  const changePage = (page) => {
+    setCurrentPage(page);
+  } 
   return (
     <>
-      <Menu></Menu>
-      <Routes id='page'>
-        <Route exact path="/" element={<Home />} />
-        <Route exact path="/experience" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/art" element={<Dessins />} />
-        <Route path="/projects" element={<Dev />} />
-      </Routes>
+      <Menu changePage={changePage}></Menu>
+      {currentPage}
     </>
   );
 }

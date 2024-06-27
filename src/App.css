@@ -19,7 +19,7 @@ nav{
   overflow: auto;
 }
 
-nav *{ 
+nav{ 
   background-color: lavender;
   width: 100%;
   color: black;
