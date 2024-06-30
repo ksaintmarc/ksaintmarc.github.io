@@ -1,0 +1,116 @@
+{
+	"Art" : [
+		{
+			"path" : "/Aloy.png",
+			"title": "Aloy",
+			"description": "Aloy, protagoniste du jeu Horizon Zero Dawn",
+			"keywords" : ["Fanart", "Game", "Purple"]
+		},
+		{
+			"path" : "/Amaterasu.png",
+			"title": "Amaterasu",
+			"description": "Amaterasu, déesse du Soleil de la mythologie japonaise",
+			"keywords" : ["Myth", "Japan", "Red"] 
+		},
+		{
+			"path" : "/Aristochats.png",
+			"title": "Les Aristochats",
+			"description": "Duchess et Marie du film 'Les Aristochats' de Disney",
+			"keywords" : ["Fanart","Disney"]
+		},
+		{
+			"path" : "/Arlecchino.png",
+			"title": "Arlecchino",
+			"description": "Arlecchino dans sa forme de Boss, du jeu Genshin Impact",
+			"keywords" : ["Fanart", "Genshin", "Red"]
+		},
+		{
+			"path" : "/Artemis.png",
+			"title": "Artemis",
+			"description": "Artemis, la déesse de la chasse de la mythologie grecque",
+			"keywords" : ["Myth", "Greek"]
+		},
+		{
+			"path" : "/ArtistPP.png",
+			"title": "Auto-portrait",
+			"description": "Portrait de moi à l'occasion du 100ème post de mon premier compte Instagram",
+			"keywords" : ["Self", "Purple"] 
+		},
+		{
+			"path" : "/Aurora.png",
+			"title": "Aurora",
+			"description": "Aurora, une chanteuse de pop d'origine Norvégienne",
+			"keywords" : ["Fanart"]
+		},
+		{
+			"path" : "/Aventuratio.png",
+			"title": "Aventurine X Dr Ratio",
+			"description": "Aventurine et Dr Ratio, personnages du jeu 'Honkai: Star Rail'",
+			"keywords" : ["Fanart", "Love", "Game", "Red"] 
+		},
+		{
+			"path": "/Bayonetta.png",
+			"title": "Bayonetta",
+			"description": "Personnage Bayonetta du jeu vidéo du même nom",
+			"keywords": ["Bayonetta", "Reine", "Beat'm all"]
+		},
+
+		{
+			"path": "/Huevember2.png",
+			"title": "Huevember",
+			"description": "Résultat du challenge de dessin 'Huevember'",
+			"keywords": ["Dessin", "Challenge", "Novembre"]
+		},
+
+		{
+			"path": "/Medusa.jpg",
+			"title": "Medusa",
+			"description": "Dessin de la Gorgone Medusa",
+			"keywords": ["Serpent", "Gorgone", "Grecque"]
+		},
+
+		{
+			"path": "/NatureSkull.png",
+			"title": "Nature Skull",
+			"description": "Squelette dans la nature",
+			"keywords": ["Squelette", "Nature", "Dark"]
+		},
+			
+		{
+			"path": "/Prometheus.jpg",
+			"title": "Prometheus",
+			"description": "Le film ?",
+			"keywords": ["Film", "Univers", "Voyage"]
+		},
+		{
+			"path" : "/Smoking.jpg",
+			"title": "",
+			"description": "",
+			"keywords" : [] 
+		},
+		{
+			"path" : "/Vampire.jpg",
+			"title": "",
+			"description": "",
+			"keywords" : [] 
+		},
+		{
+			"path" : "/YoI.png",
+			"title": "Yuri on ice",
+			"description": "Victor et Yuri, personnages de l'animé japonnais 'Yuri on ice!!!'",
+			"keywords" : ["Love", "Fanart"] 
+		},
+		{
+			"path" : "/Zelda.jpg",
+			"title": "Zelda",
+			"description": "Zelda est un personnage des jeux 'Zelda'",
+			"keywords" : ["Fanart", "Game"] 
+		},
+		{
+		"path" : "/Zero.png",
+		"title": "",
+		"description": "",
+		"keywords" : [] 
+		}
+	]
+}

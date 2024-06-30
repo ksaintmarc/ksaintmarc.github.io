@@ -1,0 +1,22 @@
+{
+	"Projects" : [
+		{
+			"img":"/ACA.png",
+			"title":"Assistants de création d’environnements en RV",
+			"content":" Dans un groupe de 5 personne j'ai eu l'occasion de travailler à l'élaboration d'outils afin d'aider au développement d'environnements en Réalité Virtuelle. J'ai utilisé Blender et Unity afin de concevoir un assistant de création d'Avatars",
+			"keywords": []
+		},
+		{
+			"img":"/Stoskopf.png",
+			"title":"Application web de médiation culturelle",
+			"content":"Dans un groupe de 10 personnes j'ai eu l'occasion de travailler à l'élaboration d'un outil de médiation culturelle pour le Musée de l'Oeuvre de Notre-Dame de Strasbourg. J'ai utilisé Blender et Unity afin de concevoir un assistant de création d'Avatars",
+			"keywords": []
+		},
+		{
+			"img":"/Mob.png",
+			"title" : "Participation à la direction artistique d'une chaine twitch",
+			"content" : "J'ai participé à la direction artistique d'une chaine twitch. Plus précisément, j'ai dessiné l'avatar que le streamer utilise lors de ses streams en réalisant diverses émotions, mais aussi différents skins. J'ai aussi réalisé les images de fond et les émoticônes de la chaine, des animations à superposer sur le stream, etc.",
+			"keywords": []
+		}
+	]
+}

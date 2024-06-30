@@ -1,0 +1,25 @@
+{
+	"Stages":[
+		{
+			"title": "Stage en développement web",
+			"lieu":"RMT Industrie- und Elektrotechnik GmbH, Allemagne",
+			"duration":"6 mois",
+			"date":"Fevrier-Juillet 2024",
+			"description":""
+		},
+		{
+			"title": "Stage en recherche",
+			"lieu":"Laboratoire ICube, France",
+			"duration":"3 mois",
+			"date":"Juin-Aout 2023",
+			"description":""
+		},
+		{
+			"title": "Stage en développement web",
+			"lieu":"Zeilt Studio, Luxembourg",
+			"duration":"3 mois",
+			"date":"Juin-Aout 2022",
+			"description":""
+		}
+	]
+}

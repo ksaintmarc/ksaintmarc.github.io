@@ -1,7 +1,15 @@
+import InfoArray from "../json/art.json";
+
 function Dessins() {
+  console.log(InfoArray);
   return (
     <div className="App">
-      Dessins
+      <div className="gallery">
+      {InfoArray.Art.map(elem => (
+        <>
+          <img className="artpic" src={"/img/art" + elem.path} alt={elem.description}/>
+        </>
+      ))}</div>
     </div>
   );
 }
