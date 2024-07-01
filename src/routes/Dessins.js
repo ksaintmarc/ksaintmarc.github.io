@@ -1,7 +1,6 @@
 import InfoArray from "../json/art.json";
 
 function Dessins() {
-  console.log(InfoArray);
   return (
     <div className="App">
       <div className="gallery">
