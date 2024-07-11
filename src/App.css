@@ -112,3 +112,26 @@ a *{
   color: rgb(153, 194, 255);
   font-size: xx-large !important;
 }
+
+.art-modal{
+  background-color: rgb(193, 181, 224);
+  display: flex;
+  flex-direction: column;
+  height: 75%;
+  width: 85%;
+  margin: 5%;
+  border-right:10px solid white;
+  border-radius: 10px;
+  border-top-right-radius: 100px;
+  text-align: center;
+}
+
+.art-modal div{
+  display: flex;
+  flex-direction: row;
+}
+
+.art-modal img{
+  display: flex;
+  max-height: max-content;
+}

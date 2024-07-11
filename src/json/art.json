@@ -51,7 +51,7 @@
 		{
 			"path": "/Bayonetta.png",
 			"title": "Bayonetta",
-			"description": "Personnage Bayonetta du jeu vidéo du même nom",
+			"description": "Personnage Bayonetta du jeu vidéo éponyme",
 			"keywords": ["Bayonetta", "Reine", "Beat'm all"]
 		},
 
@@ -72,25 +72,25 @@
 		{
 			"path": "/NatureSkull.png",
 			"title": "Nature Skull",
-			"description": "Squelette dans la nature",
+			"description": "",
 			"keywords": ["Squelette", "Nature", "Dark"]
 		},
 			
 		{
 			"path": "/Prometheus.jpg",
 			"title": "Prometheus",
-			"description": "Le film ?",
+			"description": "Portrait de Prométhée, celui qui vola le feu aux Dieux pour l'offrir aux Hommes",
 			"keywords": ["Film", "Univers", "Voyage"]
 		},
 		{
 			"path" : "/Smoking.jpg",
-			"title": "",
-			"description": "",
+			"title": "Smoking",
+			"description": "Le saviez-vous? Fumer tue",
 			"keywords" : [] 
 		},
 		{
 			"path" : "/Vampire.jpg",
-			"title": "",
+			"title": "Vampire",
 			"description": "",
 			"keywords" : [] 
 		},
@@ -108,8 +108,8 @@
 		},
 		{
 		"path" : "/Zero.png",
-		"title": "",
-		"description": "",
+		"title": "Zero",
+		"description": "Dessin avec pour thème : Zero",
 		"keywords" : [] 
 		}
 	]
